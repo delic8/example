@@ -1,0 +1,2 @@
+POST {{host}}/search?keyword=성수동
+Content-Type: application/json
